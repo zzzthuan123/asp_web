@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thuan\\Downloads\\github\\BaiTap02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84D7CB15-89E7-40F1-A31F-72D9F10F3B5E}|BT02\\BT02.csproj|c:\\users\\thuan\\downloads\\github\\baitap02\\bt02\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{84D7CB15-89E7-40F1-A31F-72D9F10F3B5E}|BT02\\BT02.csproj|solutionrelative:bt02\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D7CB15-89E7-40F1-A31F-72D9F10F3B5E}|BT02\\BT02.csproj|c:\\users\\thuan\\downloads\\github\\baitap02\\bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84D7CB15-89E7-40F1-A31F-72D9F10F3B5E}|BT02\\BT02.csproj|solutionrelative:bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\BaiTap02\\BT02\\.gitignore",
+              "RelativeDocumentMoniker": "BT02\\.gitignore",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\BaiTap02\\BT02\\.gitignore",
+              "RelativeToolTip": "BT02\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T09:27:38.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\BaiTap02\\BT02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\BaiTap02\\BT02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BT02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T09:24:57.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
