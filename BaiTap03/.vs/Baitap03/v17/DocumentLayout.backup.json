@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap03\\baitap03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|solutionrelative:baitap03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap03\\baitap03\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|solutionrelative:baitap03\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap03\\baitap03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|solutionrelative:baitap03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap03\\baitap03\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|solutionrelative:baitap03\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap03\\baitap03\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|solutionrelative:baitap03\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap03\\baitap03\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|solutionrelative:baitap03\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap03\\baitap03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|solutionrelative:baitap03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap03\\baitap03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D312CEF3-8283-4391-8BBC-82FD782BFA82}|Baitap03\\Baitap03.csproj|solutionrelative:baitap03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\.gitignore",
+              "RelativeDocumentMoniker": "Baitap03\\.gitignore",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\.gitignore",
+              "RelativeToolTip": "Baitap03\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T10:03:19.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Baitap03\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Baitap03\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T08:19:12.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Baitap03\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Baitap03\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:15:09.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhomController.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Controllers\\NhomController.cs",
+              "RelativeDocumentMoniker": "Baitap03\\Controllers\\NhomController.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Controllers\\NhomController.cs",
+              "RelativeToolTip": "Baitap03\\Controllers\\NhomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:15:06.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap03\\Program.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Program.cs",
+              "RelativeToolTip": "Baitap03\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:57:51.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Views\\Nhom\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitap03\\Views\\Nhom\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Views\\Nhom\\Index.cshtml",
+              "RelativeToolTip": "Baitap03\\Views\\Nhom\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:56:43.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Baitap03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Baitap03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:54:12.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitap03\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap03\\Baitap03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitap03\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:53:47.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
