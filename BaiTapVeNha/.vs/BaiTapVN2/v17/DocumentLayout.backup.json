@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|c:\\users\\thuan\\downloads\\baitapvn2\\baitapvn2\\views\\tuan2\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|solutionrelative:baitapvn2\\views\\tuan2\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|c:\\users\\thuan\\downloads\\baitapvn2\\baitapvn2\\views\\tuan2\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|solutionrelative:baitapvn2\\views\\tuan2\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|c:\\users\\thuan\\downloads\\baitapvn2\\baitapvn2\\views\\tuan2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|solutionrelative:baitapvn2\\views\\tuan2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|c:\\users\\thuan\\downloads\\baitapvn2\\baitapvn2\\controllers\\tuan2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|solutionrelative:baitapvn2\\controllers\\tuan2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|c:\\users\\thuan\\downloads\\baitapvn2\\baitapvn2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2827023F-520D-4CA6-9688-AF9F1B442741}|BaiTapVN2\\BaiTapVN2.csproj|solutionrelative:baitapvn2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\Views\\Tuan2\\Profile.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN2\\Views\\Tuan2\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\Views\\Tuan2\\Profile.cshtml",
+              "RelativeToolTip": "BaiTapVN2\\Views\\Tuan2\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T02:36:12.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MayTinh.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\Views\\Tuan2\\MayTinh.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN2\\Views\\Tuan2\\MayTinh.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\Views\\Tuan2\\MayTinh.cshtml",
+              "RelativeToolTip": "BaiTapVN2\\Views\\Tuan2\\MayTinh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T02:25:32.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\Views\\Tuan2\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN2\\Views\\Tuan2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\Views\\Tuan2\\Index.cshtml",
+              "RelativeToolTip": "BaiTapVN2\\Views\\Tuan2\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T02:17:04.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tuan2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\Controllers\\Tuan2Controller.cs",
+              "RelativeDocumentMoniker": "BaiTapVN2\\Controllers\\Tuan2Controller.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\Controllers\\Tuan2Controller.cs",
+              "RelativeToolTip": "BaiTapVN2\\Controllers\\Tuan2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:14:53.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\.gitignore",
+              "RelativeDocumentMoniker": "BaiTapVN2\\.gitignore",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\BaiTapVN2\\BaiTapVN2\\.gitignore",
+              "RelativeToolTip": "BaiTapVN2\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T02:09:49.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
