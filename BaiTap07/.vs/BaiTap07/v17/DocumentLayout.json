@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap07\\baitap07\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|solutionrelative:baitap07\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap07\\baitap07\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|solutionrelative:baitap07\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap07\\baitap07\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|solutionrelative:baitap07\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap07\\baitap07\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|solutionrelative:baitap07\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baitap07\\baitap07\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E536F87-6972-4F10-9296-9506CFC67AD6}|BaiTap07\\BaiTap07.csproj|solutionrelative:baitap07\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Views\\TheLoai\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiTap07\\Views\\TheLoai\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Views\\TheLoai\\Create.cshtml",
+              "RelativeToolTip": "BaiTap07\\Views\\TheLoai\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T05:49:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap07\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "BaiTap07\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T05:36:52.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "BaiTap07\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "BaiTap07\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:32:18.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "BaiTap07\\Models\\TheLoai.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Models\\TheLoai.cs",
+              "RelativeToolTip": "BaiTap07\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:49:59.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BaiTap07\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiTap07\\BaiTap07\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BaiTap07\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:48:22.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
