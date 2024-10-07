@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\wwwroot\\anhchup\\screenshot (55).png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\wwwroot\\anhchup\\screenshot (55).png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Data\\Migrations\\20241007090445_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiKiemTra03_01\\Data\\Migrations\\20241007090445_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\views\\phongban\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\phongban\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\views\\phongban\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\phongban\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\views\\phongban\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\phongban\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\views\\phongban\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\phongban\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\controllers\\phongbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\controllers\\phongbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\views\\phongban\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\phongban\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|c:\\users\\thuan\\downloads\\github\\asp_web\\baikiemtra03_01\\baikiemtra03_01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6102FBCD-D297-4D3F-ACE2-2C75BECCE161}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Screenshot (55).png",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\wwwroot\\anhchup\\Screenshot (55).png",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\wwwroot\\anhchup\\Screenshot (55).png",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\wwwroot\\anhchup\\Screenshot (55).png",
+              "RelativeToolTip": "BaiKiemTra03_01\\wwwroot\\anhchup\\Screenshot (55).png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T08:15:19.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241007090445_c.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Data\\Migrations\\20241007090445_c.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Data\\Migrations\\20241007090445_c.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Data\\Migrations\\20241007090445_c.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Data\\Migrations\\20241007090445_c.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:04:45.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\appsettings.json",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\appsettings.json",
+              "RelativeToolTip": "BaiKiemTra03_01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T09:04:21.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\.gitignore",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\.gitignore",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\.gitignore",
+              "RelativeToolTip": "BaiKiemTra03_01\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T09:02:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:00:14.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\PhongBan\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Detail.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\PhongBan\\Detail.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:59:42.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\PhongBan\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Delete.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\PhongBan\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:59:20.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\PhongBan\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Edit.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\PhongBan\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:58:57.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\PhongBan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\PhongBan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:57:32.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\PhongBan\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Create.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\PhongBan\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:57:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Models\\NhanVien.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:51:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhongBan.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Models\\PhongBan.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Models\\PhongBan.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Models\\PhongBan.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Models\\PhongBan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:51:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\NhanVien\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Create.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\NhanVien\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:55:05.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\NhanVien\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\NhanVien\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:55:55.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhongBanController.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Controllers\\PhongBanController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Controllers\\PhongBanController.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Controllers\\PhongBanController.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Controllers\\PhongBanController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAywF0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:49:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\NhanVien\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\NhanVien\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:53:52.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:51:50.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Controllers\\NhanVienController.cs",
+              "ToolTip": "C:\\Users\\thuan\\Downloads\\github\\asp_web\\BaiKiemTra03_01\\BaiKiemTra03_01\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:49:32.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
